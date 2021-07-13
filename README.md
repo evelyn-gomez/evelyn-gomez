@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evelyn-gomez
 - 👀 I’m interested in front-end software development! 
-- 🌱 I’m currently learning CSS, HTML and Javascript. Following The Odin Project curriculum!  
-- 💞️ I’m looking to collaborate in all and anything a newbie can help out in! 
+- 🌱 Currently learning CSS, HTML and Javascript. Following The Odin Project curriculum!  
+- 💞️ Looking to collaborate in anything web developement related! I love nail polish so working for a nail polish company would be a D R E A M! 
 - 📫 How to reach me 
   - Linkedin: https://www.linkedin.com/in/gomezevelyn
   - IG: @evelovely_15
